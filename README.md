@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow.svg?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/github/last-commit/SEU_USUARIO/NOME_DO_REPO?style=for-the-badge&color=red" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/osvaldofaachar/aulas-python?style=for-the-badge&color=red" alt="Last Commit">
 </p>
 
 ---
