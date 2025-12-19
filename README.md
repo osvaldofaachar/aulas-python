@@ -77,4 +77,4 @@ Para rodar os códigos deste repositório na sua máquina, você precisará ter 
 
 1. **Clone o repositório**:
    ```bash
-   git clone [https://github.com/osvaldofaachar/aulas-python.git](https://github.com/osvaldofaachar/aulas-python.git)
+   git clone https://github.com/osvaldofaachar/aulas-python.git 
